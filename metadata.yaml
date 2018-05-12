@@ -1,0 +1,26 @@
+_repo: The-Adventures-of-Captain-John-Patterson-with-Notices-of-The-Officers--amp-c.-of-the-50th-or-__46131
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46131-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Patterson, John
+    gutenberg_agent_id: '31990'
+    url: http://www.gutenberg.org/2009/agents/31990
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives, British'
+- !lcc 'DA'
+- !lcsh 'Great Britain. Army. Queen''s Own Royal West Kent Regiment'
+title: "The Adventures of Captain John Patterson\r\nWith Notices of the Officers,\
+  \ &c. of the 50th, or Queen's Own Regiment from 1807 to 1821"
+url: http://www.gutenberg.org/ebooks/46131
