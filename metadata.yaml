@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31990'
     url: http://www.gutenberg.org/2009/agents/31990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46131#The-Adventures-of-Captain-John-Patterson-with-Notices-of-The-Officers--amp-c.-of-the-50th-or-_
 gutenberg_issued: '2014-06-29'
 gutenberg_type: Text
 identifiers:
